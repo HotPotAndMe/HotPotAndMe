@@ -25,5 +25,5 @@ version:          2.1.0
 github:
   repo:           https://github.com/HotPotAndMe/hotpotandme.github.io
 
-theme: jekyll-theme-minimal
+theme:   jekyll-theme-minimal
 plugins: [jekyll-paginate, jekyll-gist]
