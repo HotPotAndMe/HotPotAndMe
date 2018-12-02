@@ -11,7 +11,7 @@ title:            蒹葭
 tagline:          '呼呼呼'
 description:      '南邮在校大学僧'
 url:              http://hotpotandme.github.io
-baseurl:          http://hotpotandme.github.io
+baseurl:
 
 author:
   name:           '蒹葭'
@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.1
+version:          2.1.0
 
 github:
   repo:           https://github.com/HotPotAndMe/hotpotandme.github.io
