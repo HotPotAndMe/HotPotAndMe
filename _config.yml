@@ -11,7 +11,7 @@ title:            蒹葭
 tagline:          '呼呼呼'
 description:      '南邮在校大学僧'
 url:              http://hotpotandme.github.io
-baseurl:
+baseurl:          /
 
 author:
   name:           '蒹葭'
@@ -25,5 +25,5 @@ version:          2.1.0
 github:
   repo:           https://github.com/HotPotAndMe/hotpotandme.github.io
 
-theme:     jekyll-theme-minimal
-plugins:   [jekyll-paginate, jekyll-gist]
+#theme:     jekyll-theme-minimal
+#plugins:   [jekyll-paginate, jekyll-gist]
